@@ -1,2 +1,2 @@
 # Ruby-Trials
-Ruby Programlama dili ilgili basit denemeler
+Ruby Programlama dili ile ilgili basit denemeler
